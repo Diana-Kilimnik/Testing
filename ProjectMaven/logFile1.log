@@ -1,0 +1,6 @@
+2021-07-13 11:57:47 [WARN ] Logger:23 - Size must be greater than 0!
+2021-07-13 11:57:47 [ERROR] Logger:24 - Size must be greater than 0!
+2021-07-13 11:57:47 [FATAL] Logger:25 - Size must be greater than 0!
+2021-07-13 11:57:47 [WARN ] Logger:47 - Array is empty!
+2021-07-13 11:57:47 [WARN ] Logger:59 - Size = 0!
+2021-07-13 11:57:47 [ERROR] Logger:60 - Size = 0!
